@@ -33,8 +33,8 @@ I’m a **MEXT Scholar in Japan** with expertise in **YOLO, CLIP, RAG, and FastA
 | 🏭 **Manufacturing Defect Detection System** | Real-time defect detection (YOLOv8 + TensorRT on NVIDIA Jetson). 90 % accuracy, <50 ms inference. | [Manufacturing Defect Detection](Coming Soon! |
 | 🗂️ **Multilingual Customer Support RAG System** | English/Arabic/German document retrieval via RAG + FAISS + CLIP + Transformers + FastAPI. 85 % accuracy under 3 s response. | [RAG-System](Coming Soon!) |
 | 📧 **Fraud Email Detection System** | ML-based text classifier using CountVectorizer + Naive Bayes. 97 % accuracy, scam/not scam inference. | [Fraud_Detect_Sys](https://github.com/HamzaMehdi12/Fraud_Detect_Sys) |
-| ☁️ **FastAPI + Docker + AWS Pipeline** | End-to-end ML deployment with containerization and REST API. | [FastAPI-AWS-Pipeline](https://github.com/HamzaMehdi12/FastAPI-Docker-AWS) |
-| 🤖 **LLM Fine-Tuning & Inference** | PEFT fine-tuning of LLMs (BERT, LLaMA). Evaluation via BLEU + F1. Deployed using Streamlit + FastAPI. | [LLM-Fine-Tuning](https://github.com/HamzaMehdi12/llm-finetuning) |
+| ☁️ **FastAPI + Docker + AWS Pipeline** | End-to-end ML deployment with containerization and REST API. | [FastAPI-AWS-Pipeline](Coming Soon!) |
+| 🤖 **LLM Fine-Tuning & Inference** | PEFT fine-tuning of LLMs (BERT, LLaMA). Evaluation via BLEU + F1. Deployed using Streamlit + FastAPI. | [LLM-Fine-Tuning](Coming Soon!) |
 | 📊 **General ML Projects** | Classic ML experiments — classification, regression, clustering with Sklearn & Pandas. | [Machine-Learning](https://github.com/HamzaMehdi12/Machine-Learning-Spec) |
 | 📊 **Python Basics** | Basic Python projects — Data Cleaning, Plotting, Classifiersm etc. | [Python-Basics](https://github.com/HamzaMehdi12/Python_Basics) |
 
