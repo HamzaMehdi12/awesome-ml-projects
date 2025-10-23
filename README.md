@@ -35,7 +35,9 @@ I’m a **MEXT Scholar in Japan** with expertise in **YOLO, CLIP, RAG, and FastA
 | 📧 **Fraud Email Detection System** | ML-based text classifier using CountVectorizer + Naive Bayes. 97 % accuracy, scam/not scam inference. | [Fraud_Detect_Sys](https://github.com/HamzaMehdi12/Fraud_Detect_Sys) |
 | ☁️ **FastAPI + Docker + AWS Pipeline** | End-to-end ML deployment with containerization and REST API. | [FastAPI-AWS-Pipeline](https://github.com/HamzaMehdi12/FastAPI-Docker-AWS) |
 | 🤖 **LLM Fine-Tuning & Inference** | PEFT fine-tuning of LLMs (BERT, LLaMA). Evaluation via BLEU + F1. Deployed using Streamlit + FastAPI. | [LLM-Fine-Tuning](https://github.com/HamzaMehdi12/llm-finetuning) |
-| 📊 **General ML Projects** | Classic ML experiments — classification, regression, clustering with Sklearn & Pandas. | [Machine-Learning](https://github.com/HamzaMehdi12/Machine-Learning) |
+| 📊 **General ML Projects** | Classic ML experiments — classification, regression, clustering with Sklearn & Pandas. | [Machine-Learning](https://github.com/HamzaMehdi12/Machine-Learning-Spec) |
+| 📊 **Python Basics** | Basic Python projects — Data Cleaning, Plotting, Classifiersm etc. | [Python-Basics](https://github.com/HamzaMehdi12/Python_Basics) |
+
 
 ---
 
