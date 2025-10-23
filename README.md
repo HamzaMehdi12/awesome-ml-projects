@@ -30,8 +30,8 @@ I’m a **MEXT Scholar in Japan** with expertise in **YOLO, CLIP, RAG, and FastA
 | Project | Description | Link |
 |:--------|:-------------|:-----|
 | 🦾 **High-Accuracy PhytoSparseNet** | Lightweight CNN for tomato/stem detection (224×224×3 input, 1.2 M params, 0.33 GFLOPs). Real-time edge inference (15–20 ms). | [Phytonet_Model](https://github.com/HamzaMehdi12/Phytonet_Model) |
-| 🏭 **Manufacturing Defect Detection System** | Real-time defect detection (YOLOv8 + TensorRT on NVIDIA Jetson). 90 % accuracy, <50 ms inference. | [Manufacturing Defect Detection](https://github.com/HamzaMehdi12/Object-Detection) |
-| 🗂️ **Multilingual Customer Support RAG System** | English/Arabic/German document retrieval via RAG + FAISS + CLIP + Transformers + FastAPI. 85 % accuracy under 3 s response. | [RAG-System](https://github.com/HamzaMehdi12/RAG-system) |
+| 🏭 **Manufacturing Defect Detection System** | Real-time defect detection (YOLOv8 + TensorRT on NVIDIA Jetson). 90 % accuracy, <50 ms inference. | [Manufacturing Defect Detection](Coming Soon! |
+| 🗂️ **Multilingual Customer Support RAG System** | English/Arabic/German document retrieval via RAG + FAISS + CLIP + Transformers + FastAPI. 85 % accuracy under 3 s response. | [RAG-System](Coming Soon!) |
 | 📧 **Fraud Email Detection System** | ML-based text classifier using CountVectorizer + Naive Bayes. 97 % accuracy, scam/not scam inference. | [Fraud_Detect_Sys](https://github.com/HamzaMehdi12/Fraud_Detect_Sys) |
 | ☁️ **FastAPI + Docker + AWS Pipeline** | End-to-end ML deployment with containerization and REST API. | [FastAPI-AWS-Pipeline](https://github.com/HamzaMehdi12/FastAPI-Docker-AWS) |
 | 🤖 **LLM Fine-Tuning & Inference** | PEFT fine-tuning of LLMs (BERT, LLaMA). Evaluation via BLEU + F1. Deployed using Streamlit + FastAPI. | [LLM-Fine-Tuning](https://github.com/HamzaMehdi12/llm-finetuning) |
