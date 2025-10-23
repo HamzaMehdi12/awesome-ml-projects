@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="assets/banner.png" alt="S.M. Hamza Mehdi Banner" width="100%">
+  <img src="assets/banner.png" alt="Muhammad Hamza Mehdi Banner" width="100%">
 </p>
 
 # 🌟 Machine Learning & AI Projects by **S.M. Hamza Mehdi**
