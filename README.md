@@ -3,7 +3,7 @@
   <img src="assets/Me.png" alt="Muhammad Hamza Mehdi Banner" width="100%">
 </p>
 
-# 🌟 Machine Learning & AI Projects by **S.M. Hamza Mehdi**
+# 🌟 Machine Learning Engineer | Computer Vision & MLOps | Edge AI by **S.M. Hamza Mehdi**
 
 Welcome to my **AI/ML Project Portfolio** — a collection of my top research and production-grade systems in **Computer Vision**, **LLMs**, and **Edge AI**.  
 I’m a **MEXT Scholar in Japan** with expertise in **YOLO, CLIP, RAG, and FastAPI-based ML deployments**.
