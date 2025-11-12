@@ -31,7 +31,7 @@ I’m a **MEXT Scholar in Japan** with expertise in **YOLO, CLIP, RAG, and FastA
 |:--------|:-------------|:-----|
 | 🦾 **High-Accuracy PhytoSparseNet** | Lightweight CNN for tomato/stem detection (224×224×3 input, 1.2 M params, 0.33 GFLOPs). Real-time edge inference (15–20 ms). | [Phytonet_Model](https://github.com/HamzaMehdi12/Phytonet_Model) |
 | 🏭 **Manufacturing Defect Detection System** | Real-time defect detection (YOLOv8 + TensorRT on NVIDIA Jetson). 90 % accuracy, <50 ms inference. | [Manufacturing Defect Detection](Coming Soon! |
-| 🗂️ **Multilingual Customer Support RAG System** | English/Arabic/German document retrieval via RAG + FAISS + CLIP + Transformers + FastAPI. 85 % accuracy under 3 s response. | [RAG-System](Coming Soon!) |
+| 🗂️ **Multilingual Customer Support RAG System** | English/Arabic/German document retrieval via RAG + FAISS + CLIP + Transformers + FastAPI. 85 % accuracy under 3 s response. | [CLIP](https://github.com/HamzaMehdi12/Multi-Modal-Enterprise-Customer-Service-Agent) |
 | 📧 **Fraud Email Detection System** | ML-based text classifier using CountVectorizer + Naive Bayes. 97 % accuracy, scam/not scam inference. | [Fraud_Detect_Sys](https://github.com/HamzaMehdi12/Fraud_Detect_Sys) |
 | 📧 **YoloMine Object Detection Custom Model** | A custom YOLO-based object detection model implementation in **PyTorch** for **vehicle damage detection**, featuring a **DarkNet-style backbone**, **FPN neck**, and **multi-scale detection head**. | [Object Detection_Sys](https://github.com/HamzaMehdi12/Object-Detection) |
 | ☁️ **FastAPI + Docker + AWS Pipeline** | End-to-end ML deployment with containerization and REST API. | [FastAPI-AWS-Pipeline](Coming Soon!) |
